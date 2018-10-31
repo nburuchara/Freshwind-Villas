@@ -1,0 +1,206 @@
+/* BODY */
+
+body {
+	font-family: 'Nunito';
+}
+
+/* END BODY */
+
+
+
+/* NAVBAR */ 
+
+.navbar {
+
+	background-color: #FFFFFF;
+	text-transform: uppercase;
+	font-family: 'Nunito';
+	font-weight: 400px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+
+}
+.navbar a {
+
+	color: #000000 ! important;
+	opacity: 0.5;
+	font-size: 20px;
+
+}
+.navbar a:hover {
+	opacity: 0.9;
+	background-color: #E0520B ;
+
+
+}
+
+/* NAVBAR */ 
+
+
+/* JUMBOTRON */
+
+.jumbotron {
+	/*background-color: #104290;*/
+	min-height: 800px;
+	background-image: url("../Images/header.JPG");
+}
+
+.jcontainer1 {
+	padding-top: 250px;
+}
+
+.jcontainer1 h1 {
+	font-family: 'Pacifico';
+	font-size: 90px;
+	color: #000000;
+}
+
+.jcontainer1 p {
+	font-size: 30px;
+	font-family: 'Pacifico';
+	color: #000000;
+
+}
+
+/* END JUMBOTRON */
+
+
+/* FACILITIES */
+
+.conFacility {
+	min-height: 800px;
+	background-color: #FFFFFF;
+}
+
+.conFacility h2 {
+text-align: center;
+padding-bottom: 40px;
+}
+
+/** Accomodation **/
+.pic1 img {
+	width: 410px;
+	border-radius: 50%;
+	padding-left: 20px;
+}
+
+.pic1 p {
+	padding-left: 15px;
+	padding-top: 50px;
+}
+
+.pic1 h3 {
+	padding-left: 130px;
+}
+
+/** End Accomodation **/
+/** Conferencing **/
+.pic2 img {
+	width: 410px;
+	border-radius: 50%;
+	padding-left: 0px;
+}
+
+.pic2 p {
+	padding-top: 50px;
+}
+
+.pic2 h3 {
+	padding-left: 130px;
+}
+
+/** Conferencing **/
+
+/** Events **/
+.pic3 img {
+	width: 410px;
+	border-radius: 50%;
+	padding-left: 20px;
+}
+
+.pic3 p {
+	padding-top: 50px;
+	padding-right: 20px;
+}
+
+.pic3 h3 {
+	padding-left: 180px;
+}
+
+
+/* END FACILITIES */
+
+/* GALLERY */
+
+.conGallery {
+	width: 80%;
+	padding-left: 310px;
+	padding-bottom: 100px;
+
+}
+
+.conGallery h2 {
+	text-align: center;
+}
+
+/* END GALLERY */
+
+
+/* LOCATION */
+
+.conMap {
+	min-height: 600px;
+	background-color: 
+}
+
+.conMap img {
+	width: 100%;
+}
+
+.conMap h2 {
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+/* END LOCATION */
+
+/* CONTACT */
+.conContact {
+	padding-left: 500px;
+	min-height: 750px;
+}
+
+.conContact h2 {
+	padding-bottom: 100px;
+	padding-left: 190px;
+
+}
+
+.conContact input {
+	width: 500px;
+}
+
+.conContact textarea {
+	width: 500px;
+	height: 300px;
+}
+
+.conContact button { 
+	padding: 6px;	
+}
+
+
+/* END CONTACT */
+
+
+
+
+
+
+
+
+
+
+
+
